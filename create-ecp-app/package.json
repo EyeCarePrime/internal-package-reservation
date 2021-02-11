@@ -1,0 +1,14 @@
+{
+  "name": "ecp-create-ecp-app",
+  "version": "0.0.1-alpha.1",
+  "description": "Package held to remove potential attack vector",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EyeCarePrime/internal-package-reservation.git",
+    "directory": "packages/create-ecp-app"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
