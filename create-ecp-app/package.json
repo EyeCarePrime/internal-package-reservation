@@ -1,5 +1,5 @@
 {
-  "name": "ecp-create-app",
+  "name": "create-ecp-app",
   "version": "0.0.1-alpha.1",
   "description": "Package held to remove potential attack vector",
   "main": "index.js",
